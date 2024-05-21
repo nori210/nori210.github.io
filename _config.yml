@@ -2,8 +2,8 @@
 locale                   : "en-US"
 title                    : "Personal Homepage"
 title_separator          : "-"
-#name                     : &name "Georgia Li"
-#description              : &description "Student @ UW - Madison"
+#name                     : &name 
+#description              : &description 
 url                      : https://nori210.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "nori210/nori210.github.io"
